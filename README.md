@@ -5,3 +5,5 @@ Ans: Absolutely ready!
 Any thought that you want to talk about especially the skills you gain during the Bootcamp
 
 Ans: Code, code, code!
+
+still coding
